@@ -8,8 +8,13 @@
     "theme_color": "#ff5733",
     "icons": [
         {
-            "src": "icon.png",
-            "sizes": "192x192",
+            "src": "./assets/Images/hat_744546(2)",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/Images/hat_744546(3)",
+            "sizes": "72x72",
             "type": "image/png"
         }
     ]

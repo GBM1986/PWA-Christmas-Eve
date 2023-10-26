@@ -8,7 +8,7 @@
     transform: translate(-50%, -50%);
   }
   .countdown-container .message h1 {
-    font-size: 3vw; /* Smaller font size */
+    font-size: 5.7vw; /* Smaller font size */
     margin-bottom: 10px; /* Decreased space below the title */
     color: #ffcc00;
     text-shadow: 2px 2px 2px #000000;
@@ -16,14 +16,14 @@
   
   
   div h1 {
-    font-size: 3vw; /* Smaller font size */
+    font-size: 5.7vw; /* Smaller font size */
     margin-bottom: 10px; /* Decreased space below the title */
     color: #ffcc00;
     text-shadow: 2px 2px 2px #000000;
   }
   
   #countdown {
-    font-size: 3vw; /* Smaller font size */
+    font-size: 5.7vw; /* Smaller font size */
     font-weight: bold;
     text-shadow: 2px 2px 2px #000000;
     color: #ffcc00;
@@ -40,7 +40,7 @@
       #countdown {
         font-size: 32px;
   }
-
+}
   ::selection {
     background: rgba(255,255,0,0.5);
   }
