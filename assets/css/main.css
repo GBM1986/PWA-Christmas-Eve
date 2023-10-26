@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.countdown-container {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+#countdown {
+    font-size: 36px;
+    font-weight: bold;
+}
