@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const minutes = Math.floor((timeRemaining % (1000 * 60 * 60)) / (1000 * 60));
         const seconds = Math.floor((timeRemaining % (1000 * 60)) / 1000);
 
-        countdownElement.textContent = `${days} dagar ${hours} tímar ${minutes} mínutur ${seconds} sekúndur til jóla`;
+        countdownElement.textContent = `${days} dagar ${hours} tímar ${minutes} mínútur ${seconds} sekúndur til jóla`;
     }
 
     updateCountdown();
