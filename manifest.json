@@ -8,12 +8,12 @@
     "theme_color": "#ff5733",
     "screenshots": [
       {
-        "src": "/assets/Images/Screenshot-2023-10-27-123754-512-512.png",
+        "src": "/assets/Images/Screenshot-2023-10-27-123843-512-512.png",
         "form_factor": "wide",
         "sizes": "512x512"
       },
       {
-        "src": "/assets/Images/Screenshot-2023-10-27-123754.png", 
+        "src": "/assets/Images/Screenshot-2023-10-27-123754-512-512.png", 
         "sizes": "512x512"
       }
     ],
