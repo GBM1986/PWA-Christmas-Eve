@@ -6,6 +6,17 @@
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ff5733",
+    "screenshots": [
+      {
+        "src": "/assets/Images/Screenshot-2023-10-27-123754-512-512.png",
+        "form_factor": "wide",
+        "sizes": "512x512"
+      },
+      {
+        "src": "/assets/Images/Screenshot-2023-10-27-123754.png", 
+        "sizes": "512x512"
+      }
+    ],
     "icons": [
         {
           "src": "/assets/Images/windows11/SmallTile.scale-100.png",
