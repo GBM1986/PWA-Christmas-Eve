@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const days = Math.floor(timeRemaining / (1000 * 60 * 60 * 24));
 
-        countdownElement.textContent = `${days} days until Christmas Eve`;
+        countdownElement.textContent = `${days} dagar til Jóla`;
     }
 
     updateCountdown();
